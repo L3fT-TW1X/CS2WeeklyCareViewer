@@ -1,51 +1,75 @@
-# Nom du Projet
+# CS2 Weekly Care Package Viewer
 
-Une courte description de votre projet qui explique de quoi il s'agit, pourquoi il est important et quelles sont ses fonctionnalités principales.
+the aim of my project is to visualize whether a cs2 account has recovered his weekly care package.
 
-## Table des Matières
+## Table of Contents
 
 - [Introduction](#introduction)
-- [Fonctionnalités](#fonctionnalités)
+- [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contribuer](#contribuer)
-- [Licence](#licence)
-- [Auteurs](#auteurs)
-- [Remerciements](#remerciements)
+- [Languages](#languages)
+- [Acknowledgments](#acknowledgments)
+
 
 ## Introduction
 
-Donnez ici plus de détails sur votre projet, son contexte, et pourquoi vous l'avez créé. Mentionnez les problèmes que votre projet résout ou les besoins qu'il comble.
+The aim of this project is to visualize locally whether a given CS2 account (via a STEAMID) has collected its weekly reward and to tell it when it can collect its next reward. Having several CS2 accounts, I quickly got tired of opening each game to see if I'd collected my weekly care packages.
 
-## Fonctionnalités
+## Features
 
-- Fonctionnalité 1
-- Fonctionnalité 2
-- Fonctionnalité 3
+- Feature 1
+- Feature 2
+- Feature 3
 - etc.
 
 ## Installation
 
-### Prérequis
+### Prerequisites
 
-Listez les prérequis nécessaires pour installer votre projet, par exemple :
+List the prerequisites necessary to install my project :
 
-- [Node.js](https://nodejs.org/) v14 ou plus
-- [Python](https://www.python.org/) v3.8 ou plus
-- etc.
+- [Python](https://www.python.org/)
+- [Steam Web API](https://steamcommunity.com/dev/apikey)
 
-### Étapes d'Installation
 
-Expliquez comment installer votre projet pas à pas :
+### Installation Steps
+
+Explain how to install your project step by step:
+
+
+1. Install the required Python packages:
+    ```bash
+    pip install requests pillow
+
+| Prerequisite | Description |
+|--------------|-------------|
+| [Python](https://www.python.org/) 3.x | The programming language needed to run the project |
+| `requests` library | Used for making HTTP requests |
+| `Pillow` library | Used for image processing |
+| `tkinter` | GUI toolkit (comes with Python standard library, but may need installation on some systems) |
+
+2. Put your Steam Web API on line 10 in the `cs2_weeklycarewviewer.py` :
+    ```bash
+    STEAM_API_KEY = 'PUT YOUR STEAM WEB API'
+
+    
+## Usage
+
+Double Click on the file `cs2_weeklycareviewer.py` or follow this step down bellow :
 
 ```bash
-# Clonez le dépôt
-git clone https://github.com/votre-nom-utilisateur/votre-projet.git
+# command to start the project
+python main.py
+```
 
-# Accédez au répertoire du projet
-cd votre-projet
+## Languages 
+| Language | Download |
+|--------------|-------------|
+| English | In Construction |
+| French |  In Construction |
+| Spanish |  In Construction |
+| Russian |  In Construction |
 
-# Installez les dépendances
-npm install
-# ou
-pip install -r requirements.txt
+## Acknowledgments
+
