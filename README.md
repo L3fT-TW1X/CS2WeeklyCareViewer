@@ -62,16 +62,21 @@ Double Click on the file `cs2_weeklycareviewer.py` or follow this step down bell
 # command to start the project
 python main.py
 ```
+## Languages
 
-## Languages 
+
+
 | Language | Download |
-|--------------|-------------|
-| ![English](https://twemoji.maxcdn.com/v/latest/svg/1f1ec-1f1e7.svg) English | Directly download the project |
-| ![French](https://twemoji.maxcdn.com/v/latest/svg/1f1eb-1f1f7.svg) French |          [Télécharger](https://drive.google.com/drive/u/0/folders/1cH2Fe_6_iVviMZJJC7xGg0jtR7eCScBR) |
+|----------|----------|
+| ![English](https://twemoji.maxcdn.com/v/latest/svg/1f1ec-1f1e7.svg) English | [Directly download the project](https://github.com/L3fT-TW1X/CS2WeeklyCareViewer/archive/refs/heads/main.zip) |
+| ![French](https://twemoji.maxcdn.com/v/latest/svg/1f1eb-1f1f7.svg) French |[Télécharger](https://drive.google.com/drive/u/0/folders/1cH2Fe_6_iVviMZJJC7xGg0jtR7eCScBR) |
 | ![German](https://twemoji.maxcdn.com/v/latest/svg/1f1e9-1f1ea.svg) German| [Herunterladen](https://drive.google.com/drive/u/0/folders/1gV_V3oqoATIgZc9UIufsKGZatuyyAOB8) |
-| ![Spanish](https://twemoji.maxcdn.com/v/latest/svg/1f1ea-1f1f8.svg) Spanish |  [Descargar](https://drive.google.com/drive/u/0/folders/1VA-0B86sRMPrw37VoNxyFE_v-j76oWjG)|
+| ![Spanish](https://twemoji.maxcdn.com/v/latest/svg/1f1ea-1f1f8.svg) Spanish | [Descargar](https://drive.google.com/drive/u/0/folders/1VA-0B86sRMPrw37VoNxyFE_v-j76oWjG) |
 | ![Russian Flag](https://twemoji.maxcdn.com/v/latest/svg/1f1f7-1f1fa.svg) Russian | [Скачать](https://drive.google.com/drive/u/0/folders/10OTiaE0SsWgtVyT8FHSFj5wybQkxK2o1) |
 | ![Chinese](https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1f3.svg) Chinese | [下载](https://drive.google.com/drive/u/0/folders/1Yoib7-1ZU9MFGjkMe8w3Poe-4oYGTbUJ) |
+
+
+
 
 ## Acknowledgments
 Thanks.
