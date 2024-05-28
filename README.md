@@ -14,7 +14,7 @@ the aim of my project is to visualize whether a cs2 account has recovered his we
 
 ## Introduction
 
-The aim of this project is to visualize locally whether a given CS2 account (via a STEAMID) has collected its weekly reward and to tell it when it can collect its next reward. Having several CS2 accounts, I quickly got tired of opening each game to see if I'd collected my weekly care packages.
+The aim of this project is to visualize locally whether a given CS2 account (via a steamID64) has collected its weekly reward and to tell it when it can collect its next reward. Having several CS2 accounts, I quickly got tired of opening each game to see if I'd collected my weekly care packages.
 
 ## Features
 
