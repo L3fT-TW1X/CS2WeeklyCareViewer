@@ -1,6 +1,6 @@
 # CS2 Weekly Care Package Viewer
 
-the aim of my project is to visualize whether a cs2 account has recovered his weekly care package.
+The aim of my project is to visualize whether a cs2 account has recovered his weekly care package.
 
 ## Table of Contents
 
@@ -74,4 +74,4 @@ python main.py
 | ![Chinese](https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1f3.svg) Chinese | [下载](https://drive.google.com/drive/u/0/folders/1Yoib7-1ZU9MFGjkMe8w3Poe-4oYGTbUJ) |
 
 ## Acknowledgments
-
+Thanks.
